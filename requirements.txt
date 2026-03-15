@@ -1,0 +1,11 @@
+# AR Pipeline — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+opencv-python>=4.7
+opencv-contrib-python>=4.7
+numpy>=1.24
+trimesh>=4.0
+moderngl>=5.8
+Pillow>=9.0
+scipy>=1.10
+networkx>=3.0
