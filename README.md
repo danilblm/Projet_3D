@@ -67,6 +67,8 @@ pip install -r requirements.txt
 
 ### 2. Place your 3D model
 
+> **Note:** No 3D models are bundled with this repository — they are kept out of git to keep the repo lightweight and to avoid redistributing third-party assets. Download your own and drop it in `models/`.
+
 Download a model from [Sketchfab](https://sketchfab.com/) (`.obj`, `.glb`, or `.ply`) and place it in the `models/` folder:
 
 ```

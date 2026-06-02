@@ -24,3 +24,15 @@ Thumbs.db
 
 # Project specific
 *.pyc
+
+# Large binary assets (kept out of git — download/place locally)
+models/*.glb
+models/*.gltf
+models/*.obj
+models/*.fbx
+*.mp4
+*.avi
+*.mov
+
+# Generated calibration data
+calibration/camera_data.npz
