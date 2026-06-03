@@ -4,6 +4,14 @@ A complete, modular augmented reality system that detects ArUco markers through 
 
 ---
 
+## Demo
+
+A single ArUco marker (here displayed on a phone screen) is tracked live through the webcam, and three different 3D car models are rendered on top of it in real time — each with correct perspective, scale and orientation. Swapping the model is just a command-line argument; the pipeline handles `.obj`, `.glb`, `.ply` and `.stl`.
+
+![Real-time AR — three different 3D models rendered on a tracked ArUco marker](docs/screenshots/ar_models.jpg)
+
+---
+
 ## Architecture
 
 ```
